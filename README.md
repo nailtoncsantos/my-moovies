@@ -1,6 +1,4 @@
 # Estrutura do Projeto:
-Samuel Leal 
-
 
     ```
     - src
